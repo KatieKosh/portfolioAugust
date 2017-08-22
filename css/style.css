@@ -1,0 +1,167 @@
+
+#wishListparagraph {
+
+font-family: 'Poiret One', cursive;
+font-size: 25px;
+clearfix: initial;
+color: white;
+margin-top: 130px;
+
+}
+
+#footerText {
+  font-family: 'Poiret One', cursive;
+font-size: 20px;
+padding-right: 15px;
+display: inline-block;
+margin-left: 575px;
+
+}
+
+#fp-nav ul li a span {
+
+background-color: white;
+
+}
+
+#fp-nav ul li a span:hover {
+
+color: red;
+
+}
+
+.well-lg {
+margin-top: 0px;
+
+
+}
+
+.fa-arrow-down {
+
+margin-top: 75px;
+
+
+}
+
+
+
+
+#resumeUse {
+width: 100%;
+padding-top: 50px;
+z-index: 1;
+
+}
+
+
+.navbar {
+width: 110% !important;
+position: fixed !important;
+z-index:1 !important;
+
+}
+
+
+h3 {
+  font-family: 'Poiret One', cursive !important;
+  margin-right: 30px;
+
+
+}
+
+img {
+height: 500px;
+width: 650px;
+margin-bottom: 100px;
+
+
+}
+
+p {
+color: white;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+  padding-right: 30px;*/
+
+}
+
+#title {
+
+  color: #64b5f6;
+  text-align: center;
+font-family: 'Poiret One', cursive;
+  font-size: 30px;
+margin-bottom: 250px;
+}
+
+#elements {
+margin-top: 6px;
+margin-left: 215px;
+}
+
+
+li {
+
+display: inline-block;
+padding: 10px;
+
+
+}
+
+
+a {
+
+display: inline-block;
+
+}
+
+
+
+h1 {
+font-family: 'Poiret One', cursive;
+margin-left:
+padding-bottom: 30px;
+
+
+}
+
+#titleWish {
+  margin-top: 75px;
+text-align: center;
+font-family: 'Poiret One', cursive;
+margin-left: 200px;
+float: left;
+font-size: 40px;
+}
+
+
+
+.navbar-default {
+
+width: 100%
+
+
+}
+
+#container {
+
+width: 100%
+
+}
+
+.well well-sm {
+width: 97%;
+position: fixed;
+z-index: 1;
+}
+
+#name {
+
+color: white;
+text-align: center;
+font-family: 'Poiret One', cursive;
+font-size: 45px;
+margin-top: 250px;
+
+
+}
